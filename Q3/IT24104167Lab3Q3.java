@@ -58,16 +58,16 @@ public class IT24104167Lab3Q3 {
 		
 		//Display output
 		System.out.println("5000 Notes - "+ count5000);
-		System.out.println("5000 Notes - "+ count1000);
-		System.out.println("5000 Notes - "+ count500);
-		System.out.println("5000 Notes - "+ count200);
-		System.out.println("5000 Notes - "+ count100);
-		System.out.println("5000 Notes - "+ count50);
-		System.out.println("5000 Notes - "+ count20);
-		System.out.println("5000 Notes - "+ count10);
-		System.out.println("5000 Notes - "+ count5);
-		System.out.println("5000 Notes - "+ count2);
-		System.out.println("5000 Notes - "+ count1);
+		System.out.println("1000 Notes - "+ count1000);
+		System.out.println("500 Notes - "+ count500);
+		System.out.println("200 Notes - "+ count200);
+		System.out.println("100 Notes - "+ count100);
+		System.out.println("50 Notes - "+ count50);
+		System.out.println("20 Notes - "+ count20);
+		System.out.println("10 Notes - "+ count10);
+		System.out.println("5 Notes - "+ count5);
+		System.out.println("2 Notes - "+ count2);
+		System.out.println("1 Notes - "+ count1);
 		
 	
 	}
