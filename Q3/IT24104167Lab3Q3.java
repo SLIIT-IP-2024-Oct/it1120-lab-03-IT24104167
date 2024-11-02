@@ -18,7 +18,7 @@ public class IT24104167Lab3Q3 {
 		//Create Scanner class
 		Scanner input = new Scanner(System.in);
 		
-		//Take priceperkg and quantity as user input
+		//Take Rupee amount as user input
 		System.out.print("Enter the Rupee Amount :");
 		amount = input.nextInt();
 		
