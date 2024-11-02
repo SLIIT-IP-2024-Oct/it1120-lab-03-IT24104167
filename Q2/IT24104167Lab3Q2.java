@@ -7,7 +7,7 @@ public class IT24104167Lab3Q2 {
 		//Create Scanner class
 		Scanner input = new Scanner(System.in);
 		
-		//Take priceperkg and quantity as user input
+		//Take monthly salary, OT hours, OT hourly rate as user input
 		System.out.print("Enter the Monthly Salary :");
 		monthlySalary = input.nextDouble();
 		System.out.print("Enter the OT Hours :");
